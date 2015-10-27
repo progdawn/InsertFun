@@ -1,0 +1,6 @@
+c:\users\dawn\documents\visual studio 2012\Projects\myers_InsertFunOO\myers_InsertFunOO\bin\Debug\myers_InsertFunOO.exe.config
+C:\Users\Dawn\documents\visual studio 2012\Projects\myers_InsertFunOO\myers_InsertFunOO\obj\Debug\myers_InsertFunOO.csprojResolveAssemblyReference.cache
+C:\Users\Dawn\documents\visual studio 2012\Projects\myers_InsertFunOO\myers_InsertFunOO\bin\Debug\myers_InsertFunOO.exe
+C:\Users\Dawn\documents\visual studio 2012\Projects\myers_InsertFunOO\myers_InsertFunOO\bin\Debug\myers_InsertFunOO.pdb
+C:\Users\Dawn\documents\visual studio 2012\Projects\myers_InsertFunOO\myers_InsertFunOO\obj\Debug\myers_InsertFunOO.exe
+C:\Users\Dawn\documents\visual studio 2012\Projects\myers_InsertFunOO\myers_InsertFunOO\obj\Debug\myers_InsertFunOO.pdb
